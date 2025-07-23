@@ -1,6 +1,6 @@
 # Medical Image Classification with YOLOv8
 
-Interactive Python project applying the YOLOv8 object detection model to classify brain MRI scans into four categories: **Pituitary**, **Meningioma**, **Glioma**, and **No Tumor**. This project investigates the potential of general-purpose computer vision models in the medical imaging domain.
+Interactive Python project applying the YOLOv8 object detection model to classify brain MRI scans into four categories: **Pituitary**, **Meningioma**, **Glioma**, and **No Tumor**. Developed and tested in Jupyter Notebook, this project investigates the potential of general-purpose computer vision models in the medical imaging domain.
 
 ## Purpose
 
